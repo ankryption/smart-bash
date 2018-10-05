@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none;">my-terminal ‍💻</h1> 
+<h1 align="center" style="border-bottom: none;">awesome-terminal 💻</h1>
 
 <p align="center">
  <img src="https://i.imgur.com/2XLolGV.png"/>
@@ -8,12 +8,12 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/mehtankush/my-terminal.git
+git clone https://github.com/mehtankush/awesome-terminal.git
 
 # Go into the repository
-cd my-terminal
+cd awesome-terminal
 
-# Move files starting with `.` to the `root` i.e. ~/
+# Move files to `root`
 mv .bashrc .bash_profile .bash_aliases .git-prompt.sh ~/
 ```
 
@@ -23,4 +23,5 @@ mv .bashrc .bash_profile .bash_aliases .git-prompt.sh ~/
 [MIT][MIT]. See [LICENSE][licence-file] for details.
 
 [MIT]: http://rem.mit-license.org
-[licence-file]: https://github.com/mehtankush/my-terminal/blob/master/LICENSE
+[licence-file]: https://github.com/mehtankush/awesome-terminal/blob/master/LICENSE
+
