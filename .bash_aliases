@@ -14,6 +14,7 @@ alias gpo="git pull origin"
 alias gcm="git commit -m"
 alias gr30="git reset --hard HEAD~30"
 
+alias gr='_gr_alias() { git reset --hard HEAD~${1:-1}; }; _gr_alias'
 
 #####################################
 ####    TERMINAL COMMANDS        ####
