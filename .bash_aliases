@@ -38,6 +38,7 @@ alias stoppsql='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/ser
 alias adbd='adb devices'
 alias adbk='adb kill-server'
 alias adbs='adb start-server'
+alias py='python -m SimpleHTTPServer'
 
 #####################################
 ####    FILE COMMANDS.           ####
