@@ -10,4 +10,4 @@ if [ -f ~/.bash_aliases ]; then
    . ~/.bash_aliases
 fi
 
-source ~/.git-prompt.sh
+source ~/.git-mode.sh
