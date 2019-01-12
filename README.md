@@ -14,7 +14,7 @@ git clone https://github.com/mehtankush/awesome-terminal.git
 cd awesome-terminal
 
 # Move files to `root`
-mv .bashrc .bash_profile .bash_aliases .git-prompt.sh ~/
+mv .bashrc .bash_profile .bash_aliases .git-mode.sh ~/
 ```
 
 
