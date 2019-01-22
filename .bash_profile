@@ -1,5 +1,3 @@
-# [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
-
 [[ -s "$HOME/.bashrc" ]] && source "$HOME/.bashrc" # Load the default .bashrc
 
 #  Customize BASH PS1 prompt to show current GIT repository and branch.
