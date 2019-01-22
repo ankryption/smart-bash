@@ -10,11 +10,9 @@
 # Clone this repository
 git clone https://github.com/mehtankush/awesome-terminal.git
 
-# Go into the repository
-cd awesome-terminal
+# Go into the repository, & copy files to `root`
+cd awesome-terminal && cp .bashrc .bash_profile .bash_aliases .git-mode.sh ~/
 
-# Move files to `root`
-mv .bashrc .bash_profile .bash_aliases .git-mode.sh ~/
 ```
 
 
@@ -24,4 +22,3 @@ mv .bashrc .bash_profile .bash_aliases .git-mode.sh ~/
 
 [MIT]: http://rem.mit-license.org
 [licence-file]: https://github.com/mehtankush/awesome-terminal/blob/master/LICENSE
-
