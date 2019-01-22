@@ -10,4 +10,6 @@ if [ -f ~/.bash_aliases ]; then
    . ~/.bash_aliases
 fi
 
-source ~/.git-mode.sh
+if [ -f ~/.git-mode.sh ]; then
+   source ~/.git-mode.sh
+fi
