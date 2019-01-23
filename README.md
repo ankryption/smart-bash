@@ -8,7 +8,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/mehtankush/awesome-terminal.git
+git clone https://github.com/nkshio/awesome-terminal.git
 
 # Go into the repository, & copy files to `root`
 cd awesome-terminal && cp .bashrc .bash_profile .bash_aliases .git-mode.sh ~/
@@ -21,4 +21,4 @@ cd awesome-terminal && cp .bashrc .bash_profile .bash_aliases .git-mode.sh ~/
 [MIT][MIT]. See [LICENSE][licence-file] for details.
 
 [MIT]: http://rem.mit-license.org
-[licence-file]: https://github.com/mehtankush/awesome-terminal/blob/master/LICENSE
+[licence-file]: https://github.com/nkshio/awesome-terminal/blob/master/LICENSE
