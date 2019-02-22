@@ -46,5 +46,5 @@ alias py='python -m SimpleHTTPServer'
 alias hub='cd && cd ~/workspace/github/'
 alias lab='cd && cd ~/workspace/gitlab/'
 
-alias server='cd $HOME && ssh -v -i ~/workspace/awskeys/General.pem ubuntu@23.20.197.40'
+alias server='cd $HOME && ssh -v -i ~/path/to/key.pem ubuntu@1.1.1.1'
 alias filescp='scp -v -i ~/path/to/key ~/path/to/file ubuntu@1.1.1.1:~/workspace/'
