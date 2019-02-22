@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: none;">dev-terminal 💻</h1>
 
 <p align="center">
- <img src="https://i.imgur.com/2XLolGV.png"/>
+ <img src="https://i.imgur.com/L722Gt2.png"/>
 </p>
 
 ## 🚀 Quick Start
